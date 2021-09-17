@@ -1,0 +1,58 @@
+.Div__Nav {
+  width: 100%;
+  height: 50px;
+  background: rgba(19, 22, 33, 0.91);
+  left: 0px;
+  top: 0px;
+}
+
+.Tip__Nav {
+  color: white;
+  font-family: 'Roboto', sans-serif;
+  font-size: 20px;
+}
+
+.H1__Index {
+  font-family: 'Russo One', sans-serif;
+  font-size: 80px;
+  line-height: 86px;
+  color: white;
+}
+
+.H3__Index {
+  font-family: 'Roboto', sans-serif;
+  font-size: 25px;
+  line-height: 86px;
+}
+
+html {
+  font-size: 62.5%;
+}
+
+.Background__Index {
+  background-image: url("https://www.dir.cat/blog/wp-content/uploads/2012/07/crossfit-triatletes.jpg");
+  width: 100%;
+  height: 100%;
+}
+
+a {
+  text-decoration: none;
+}
+
+nav ul {
+  display: inline-block;
+}
+
+ul li {
+  list-style: none;
+}
+
+footer {
+  font-family: 'Roboto', sans-serif;
+  width: 100%;
+  height: 100%;
+  background: rgba(10, 30, 37, 0.74);
+  margin-top: 400px;
+  font-size: 12px;
+}
+/*# sourceMappingURL=Mochila.css.map */
