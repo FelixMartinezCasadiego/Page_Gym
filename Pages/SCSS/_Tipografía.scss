@@ -13,10 +13,30 @@
     color: white;
 }
 
-// Estilo para el H3 
+// Estilo para el H3 del Index
 
 .H3__Index{
     font-family: 'Roboto', sans-serif;
     font-size: 25px;
     line-height: 86px;
+}
+
+// Estilo para el H2
+H2{
+    font-family: 'Roboto', sans-serif;
+    font-size: 30px;
+    color: white;
+}
+
+// Estilo para el H5
+H5{
+    font-family: 'Roboto', sans-serif;
+    color: black;
+    font-size: 16px;
+    font-weight: bolder;
+}
+
+// Estilo para el parrafo de Sesión JoinOurClub
+.Parrafo__Cards{
+    font-size: 12px;
 }

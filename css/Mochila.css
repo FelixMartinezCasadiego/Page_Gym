@@ -25,6 +25,23 @@
   line-height: 86px;
 }
 
+H2 {
+  font-family: 'Roboto', sans-serif;
+  font-size: 30px;
+  color: white;
+}
+
+H5 {
+  font-family: 'Roboto', sans-serif;
+  color: black;
+  font-size: 16px;
+  font-weight: bolder;
+}
+
+.Parrafo__Cards {
+  font-size: 12px;
+}
+
 html {
   font-size: 62.5%;
 }
@@ -35,8 +52,20 @@ html {
   height: 100%;
 }
 
+.Background__Join {
+  background-image: url("https://s1.1zoom.me/big0/763/Fitness_ABS_Gym_Workout_Two_585803_1280x854.jpg");
+  width: 100%;
+  height: 100%;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
 a {
   text-decoration: none;
+}
+
+a:hover {
+  color: blue;
 }
 
 nav ul {
