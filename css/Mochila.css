@@ -84,4 +84,16 @@ footer {
   margin-top: 400px;
   font-size: 12px;
 }
+
+.Animacion_1 {
+  -webkit-transition: -webkit-transform 3s;
+  transition: -webkit-transform 3s;
+  transition: transform 3s;
+  transition: transform 3s, -webkit-transform 3s;
+}
+
+.Animacion_1:hover {
+  -webkit-transform: rotateZ(360deg);
+          transform: rotateZ(360deg);
+}
 /*# sourceMappingURL=Mochila.css.map */
