@@ -56,11 +56,25 @@ footer{
 }
 
 // Animación para Sesión JoinOurClub
-
 .Animacion_1{
     transition: transform 3s;
 }
+
 .Animacion_1:hover{
     transform: rotateZ(360deg);
 }
 
+// Background de sesión Contact
+.Background__Contact{
+    background-image: url("https://mpbalatsinos.com/wp-content/uploads/2017/10/trx_functional_image_post_template.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    font-size: 15px;
+    color: white;
+}
+
+// Div para articulos de la sesión Contact
+.Div__Contact{
+    width: 342px;
+}

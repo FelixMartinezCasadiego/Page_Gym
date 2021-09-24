@@ -42,6 +42,10 @@ H5 {
   font-size: 12px;
 }
 
+.Form__Contac {
+  font-size: 15px;
+}
+
 html {
   font-size: 62.5%;
 }
@@ -95,5 +99,18 @@ footer {
 .Animacion_1:hover {
   -webkit-transform: rotateZ(360deg);
           transform: rotateZ(360deg);
+}
+
+.Background__Contact {
+  background-image: url("https://mpbalatsinos.com/wp-content/uploads/2017/10/trx_functional_image_post_template.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 100%;
+  font-size: 15px;
+  color: white;
+}
+
+.Div__Contact {
+  width: 342px;
 }
 /*# sourceMappingURL=Mochila.css.map */
