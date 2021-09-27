@@ -8,6 +8,12 @@ html{
     font-size: 62.5%;
 }
 
+// Definición para los margenes y padding del proyecto
+*{ 
+    margin: 0; 
+    padding: 0;
+}
+
 // Background para INDEX
 .Background__Index{
     background-image: url("https://www.dir.cat/blog/wp-content/uploads/2012/07/crossfit-triatletes.jpg"); 
@@ -82,8 +88,19 @@ footer{
 // Background de sesión Pricing
 .Background__Pricing{
     background-image: url("https://www.telemundo.com/sites/nbcutelemundo/files/styles/nbcnews-fp-1200-630/public/images/promo/article/2017/06/01/dos-mujeres-haciendo-ejercicio-en-el-gimnasio.jpg?ramen_itok=iqwQftIcTf");
+    background-size: cover;
+    height: 500px;
     background-repeat: no-repeat;
-    background-size: contain;
-    width: 2000px;
-    height: 100%;
 }
+
+// Background de sesión Pricing - Join with Us
+.Background__JoinW{
+    height: 500px;
+}
+
+// Clase para retirar elementos de bloque
+.Inline{
+    display: inline-block;
+}
+
+

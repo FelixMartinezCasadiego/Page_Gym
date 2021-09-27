@@ -14,11 +14,27 @@
 }
 
 // Estilo para el H3 del Index
-
 .H3__Index{
     font-family: 'Roboto', sans-serif;
     font-size: 25px;
     line-height: 86px;
+}
+
+// Estilo para el H3 de sesión Pricing
+.H3__Princing{
+    font-family: 'Roboto', sans-serif;
+    font-size: 50px;
+    line-height: 86px;
+    color: white;
+    font-weight: bolder;
+}
+
+// Estilo para el P de sesión Pricing
+.Parrafo__Princing{
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+    color:white;
+    font-weight: bolder;
 }
 
 // Estilo para el H2
@@ -45,3 +61,4 @@ H5{
 .Form__Contac{
     font-size: 15px;
 }
+

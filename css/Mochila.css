@@ -25,6 +25,21 @@
   line-height: 86px;
 }
 
+.H3__Princing {
+  font-family: 'Roboto', sans-serif;
+  font-size: 50px;
+  line-height: 86px;
+  color: white;
+  font-weight: bolder;
+}
+
+.Parrafo__Princing {
+  font-family: 'Roboto', sans-serif;
+  font-size: 20px;
+  color: white;
+  font-weight: bolder;
+}
+
 H2 {
   font-family: 'Roboto', sans-serif;
   font-size: 30px;
@@ -48,6 +63,11 @@ H5 {
 
 html {
   font-size: 62.5%;
+}
+
+* {
+  margin: 0;
+  padding: 0;
 }
 
 .Background__Index {
@@ -116,9 +136,16 @@ footer {
 
 .Background__Pricing {
   background-image: url("https://www.telemundo.com/sites/nbcutelemundo/files/styles/nbcnews-fp-1200-630/public/images/promo/article/2017/06/01/dos-mujeres-haciendo-ejercicio-en-el-gimnasio.jpg?ramen_itok=iqwQftIcTf");
+  background-size: cover;
+  height: 500px;
   background-repeat: no-repeat;
-  background-size: contain;
-  width: 2000px;
-  height: 100%;
+}
+
+.Background__JoinW {
+  height: 500px;
+}
+
+.Inline {
+  display: inline-block;
 }
 /*# sourceMappingURL=Mochila.css.map */
