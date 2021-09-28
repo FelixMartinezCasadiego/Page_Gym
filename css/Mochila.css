@@ -148,4 +148,10 @@ footer {
 .Inline {
   display: inline-block;
 }
+
+.Background__Sign {
+  background-image: url("https://stonebridgeboxingclub.org/wp-content/uploads/2020/07/eattle-boxing-gym.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
 /*# sourceMappingURL=Mochila.css.map */

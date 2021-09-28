@@ -80,7 +80,7 @@ footer{
     color: white;
 }
 
-// Div para articulos de la sesión Contact
+// Div para articulos de la sesión Contact y
 .Div__Contact{
     width: 342px;
 }
@@ -88,7 +88,7 @@ footer{
 // Background de sesión Pricing
 .Background__Pricing{
     background-image: url("https://www.telemundo.com/sites/nbcutelemundo/files/styles/nbcnews-fp-1200-630/public/images/promo/article/2017/06/01/dos-mujeres-haciendo-ejercicio-en-el-gimnasio.jpg?ramen_itok=iqwQftIcTf");
-    background-size: cover;
+    background-size: cover  ;
     height: 500px;
     background-repeat: no-repeat;
 }
@@ -102,5 +102,13 @@ footer{
 .Inline{
     display: inline-block;
 }
+
+// Background de sesión " Sign In "
+.Background__Sign{
+    background-image: url("https://stonebridgeboxingclub.org/wp-content/uploads/2020/07/eattle-boxing-gym.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
 
 
