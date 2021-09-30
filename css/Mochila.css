@@ -112,13 +112,13 @@ footer {
 .Animacion_1 {
   -webkit-transition: -webkit-transform 3s;
   transition: -webkit-transform 3s;
-  transition: transform 3s;
+  transition: transform 2s;
   transition: transform 3s, -webkit-transform 3s;
 }
 
 .Animacion_1:hover {
   -webkit-transform: rotateZ(360deg);
-          transform: rotateZ(360deg);
+          transform: rotateZ(25deg);
 }
 
 .Background__Contact {
